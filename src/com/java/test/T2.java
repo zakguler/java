@@ -5,6 +5,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import com.java.array.arrays_asList.ArraysStream;
+//test push to github
 
 public class T2 {
 
