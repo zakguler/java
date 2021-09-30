@@ -7,7 +7,7 @@ import java.util.stream.Stream;
 import com.java.array.arrays_asList.ArraysStream;
 //test push to github
 // another push from intellij
-// from STS-4
+// from intellij
 public class T2 {
 
 	// count the words in a string
